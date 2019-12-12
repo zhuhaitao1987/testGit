@@ -1,0 +1,13 @@
+OSVersion:10.0.14393
+OSType:x64
+ScreenResolution:1536x864
+CPUProcessor:Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz
+CPUCores:8
+MemorySize:7876MB
+GPU0:NVIDIA GeForce GT 730M
+GPU0MemorySize:1024MB
+GPU1:Intel(R) HD Graphics 4600
+GPU1MemorySize:1024MB
+DirectXVersion:DirectX 12
+OpenGLRenderer:Intel(R) HD Graphics 4600
+OpenGLVersion:4.3.0 - Build 20.19.15.4463
